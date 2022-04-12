@@ -13,12 +13,14 @@ X
 (gradle/wrapper/gradle-wrapper.properties,f/b/fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
 <
 build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
-‰
-Yapp/src/main/java/com/example/android/trackmysleepquality/data/model/SleepQualityModel.kt,6/f/6f7eca8bf88b24f9d787d0ae3e75284374c383c6
-
-mapp/src/main/java/com/example/android/trackmysleepquality/data/repository/interfaces/SleepQualityInterface.kt,5/a/5a54455531be64d01612ffb430a8c33afa519c3a
 ¦
 vapp/src/main/java/com/example/android/trackmysleepquality/data/repository/implementation/SleepQualityImplementation.kt,1/e/1e7c0c1d01397cb56e9177c4199cfe0d02916165
+
+mapp/src/main/java/com/example/android/trackmysleepquality/data/repository/interfaces/SleepQualityInterface.kt,5/a/5a54455531be64d01612ffb430a8c33afa519c3a
+‰
+Yapp/src/main/java/com/example/android/trackmysleepquality/data/model/SleepQualityModel.kt,6/f/6f7eca8bf88b24f9d787d0ae3e75284374c383c6
+
+_app/src/main/java/com/example/android/trackmysleepquality/data/database/dao/SleepDatabaseDao.kt,9/8/98ef708bb7d7fafe7c74bbddda159f05187a6306
 ˆ
 Xapp/src/main/java/com/example/android/trackmysleepquality/data/database/SleepDatabase.kt,0/1/01ea738e93d96a0ff74d76d05d021004767d7de2
 …
